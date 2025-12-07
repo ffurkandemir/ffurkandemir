@@ -77,13 +77,7 @@
 
 ## 📊 GitHub İstatistikleri
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ffurkandemir&show_icons=true&theme=transparent" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ffurkandemir&theme=transparent" alt="GitHub Streak" />
-</p>
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=ffurkandemir)
 
 ---
 
