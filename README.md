@@ -4,7 +4,7 @@
 <h1 align="center">Selam ben Furkan 👋</h1>
 
 <p align="center">
-  Biyoloji öğrencisi · Erken kariyer araştırmacı · Geliştirici
+  Biyoloji öğrencisi · Araştırmacı · Geliştirici
 </p>
 
 ---
