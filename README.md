@@ -32,8 +32,8 @@
 
 - 💾 **Yazılım Geliştirme**
   - Python ile veri analizi, CLI araçları ve otomasyon  
-  - Web geliştirme (özellikle **Next.js** ile tam-stack projeler)  
-  - Küçük SaaS / yan projeler (örn. **OneDev** markası altında)
+  - Web geliştirme (özellikle **Next.js** ile full-stack projeler)  
+  - Küçük SaaS / yan projeler 
 
 - ⚙️ **Sistemler & HPC**
   - Linux ile çalışma, sunucu yönetimi  
