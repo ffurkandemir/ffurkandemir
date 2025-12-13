@@ -1,91 +1,115 @@
-<!-- Profil banner'ı eklemek istersen buraya görsel linki koyabilirsin -->
-<!-- <img src="..." alt="banner" /> -->
-
 <h1 align="center">Selam ben Furkan 👋</h1>
 
 <p align="center">
-  Biyoloji öğrencisi · Araştırmacı · Geliştirici
+  Biyoloji Öğrencisi · Araştırmacı · Geliştirici
+</p>
+
+<p align="center">
+  <a href="https://github.com/ffurkandemir?tab=repositories">Repos</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#contact">Contact</a>
 </p>
 
 ---
 
-## 👨‍🎓 Hakkımda
+## 👨‍🎓 Kısaca Ben
 
 - 🎓 **Hacettepe Üniversitesi Biyoloji Bölümü** lisans öğrencisiyim.  
-- 🔬 Akademik olarak **evrimsel biyoloji, biyoinformatik, filogenetik ve karşılaştırmalı genomik** konularına ilgi duyuyorum.  
-- 💻 Kod yazmayı, veriyle uğraşmayı ve bu ikisini birleştirip yeni araçlar geliştirmeyi seviyorum.  
-- 🌱 Hem **açık kaynak** projelere katkı vermeye hem de kendi küçük araştırma odaklı projelerimi geliştirmeye çalışıyorum.  
+- 🔬 Özellikle **evrimsel biyoloji, biyoinformatik, filogenetik ve karşılaştırmalı genomik** ile ilgileniyorum.  
+- 💻 Akademik ilgi alanlarımı **Python, web teknolojileri ve HPC** ile birleştirip araştırma odaklı küçük araçlar ve projeler geliştiriyorum.  
+- 🧪 Makale okumayı, veriyle uğraşmayı ve bunları otomatize eden script’ler yazmayı seviyorum.  
+- 🚀 Uzun vadede hedefim, biyoloji ve yazılımı birleştiren **araştırma odaklı ürünler / araçlar** geliştirmek.
 
 ---
 
 ## 🔍 Araştırma & İlgi Alanlarım
 
-- 🧬 **Biyoloji / Biyoinformatik**
+- 🧬 **Biyoinformatik & Evrimsel Biyoloji**
   - Filogenetik ağaçlar, evrimsel modeller  
-  - Karşılaştırmalı genomik, ortolog/ gen aileleri analizi  
-  - Dizi analizi ve temel genomik iş akışları  
+  - Karşılaştırmalı genomik, ortolog/gen aileleri analizi  
+  - Dizi analizi, literatür tarama & özetleme
 
 - 💾 **Yazılım Geliştirme**
-  - CLI araçlar, otomasyon script’leri  
-  - Web uygulamaları (özellikle Next.js ile)  
+  - Python ile veri analizi, CLI araçları ve otomasyon  
+  - Web geliştirme (özellikle **Next.js** ile tam-stack projeler)  
+  - Küçük SaaS / yan projeler (örn. **OneDev** markası altında)
 
-- 🌐 **Sistemler & Altyapı**
-  - Linux ortamında çalışma  
-  - HPC / cluster üzerinde biyoinformatik araçları çalıştırma (SLURM vb.)  
+- ⚙️ **Sistemler & HPC**
+  - Linux ile çalışma, sunucu yönetimi  
+  - HPC / cluster ortamlarında (**SLURM**) biyoinformatik iş akışları çalıştırma  
+  - Reprodükte ve script tabanlı analizler
 
-- 🧩 **Blokzincir & Web3**
-  - Sui ekosisteminde küçük dApp ve akıllı kontrat denemeleri  
-
----
-
-## 🧪 Şu An Ne Üzerinde Çalışıyorum?
-
-- 🧬 **Biyoinformatik tarafında:**  
-  - OrthoFinder, IQ-TREE gibi araçlarla filogenetik ve ortoloji analizi öğreniyorum  
-  - HPC/cluster ortamında iş akışlarını otomatize etmeye çalışıyorum  
-
-- 💻 **Geliştirici tarafında:**  
-  - Next.js ile kişisel projeler ve küçük web uygulamaları  
-  - Sui üzerinde deneme dApp’leri ve akıllı kontratlar  
+- 🧩 **Diğer**
+  - Sui & Web3 ekosisteminde deneme projeleri  
 
 ---
 
-## 🛠️ Teknolojiler & Araçlar
+## ⭐ Seçilmiş Projeler <a name="projects"></a>
 
-### Diller
-- **Python**
-- **TypeScript / JavaScript**
-- **Java**
-- **C**
-- Bash, temel SQL
+- 🧠 **Parkinson Abstract Summarizer** – `parkinson-abstract-summarizer`  
+  Bilimsel Parkinson makalelerinin özetini çıkaran, literatür taramasını hızlandırmayı amaçlayan bir NLP projesi.  
+  - Hugging Face modelleri ile özetleme  
+  - Python, Transformers, veri temelli değerlendirme
 
-### Framework & Kütüphaneler
-- **Next.js**, React
-- Node.js ekosistemi
+- 🌸 **Multi-Dataset Flower Classifier** – `flowers-project`  
+  Birden fazla çiçek veri setini (örn. Oxford Flowers, Kaggle veri setleri) kullanarak eğitilmiş görüntü sınıflandırma projesi.  
+  - Derin öğrenme ile çok sınıflı sınıflandırma  
+  - Veri artırma, transfer learning ve karşılaştırmalı deneyler  
 
-### DevOps & Araçlar
-- Linux (Ubuntu vb.)
-- Git & GitHub
-- Docker
-- SLURM / HPC ortamı ile çalışma
+- 🧬 **Phylo/Bioinfo Scripts** – `bioinfo-workflows` (örnek isim)  
+  HPC ortamında çalışan küçük komut satırı araçları ve iş akışları:  
+  - OrthoFinder, IQ-TREE vb. araçlar için otomasyon script’leri  
+  - Filogenetik ve ortoloji analizlerini tekrar üretilebilir hale getirme
 
-### Biyoinformatik Araçları
-- OrthoFinder, IQ-TREE
-- Temel dizi analizi ve filogenetik iş akışları
+
+> Daha fazla repo için: [GitHub profilime göz at](https://github.com/ffurkandemir?tab=repositories).
+
+---
+
+## 🛠️ Teknolojiler & Araçlar <a name="tech-stack"></a>
+
+**Diller**
+
+- Python · TypeScript / JavaScript · Java · C  
+- Bash · temel SQL
+
+**Framework & Kütüphaneler**
+
+- Next.js, React  
+- Node.js ekosistemi  
+- PyTorch / TensorFlow
+
+**DevOps & Ortam**
+
+- Linux (Ubuntu vb.)  
+- Git & GitHub  
+- Docker  
+- HPC / SLURM ile job yönetimi
+
+**Biyoinformatik**
+
+- OrthoFinder, IQ-TREE  
+- Temel dizi analizi & filogenetik pipeline’lar  
+- Bilimsel Python ekosistemi (NumPy, pandas, Matplotlib)
 
 ---
 
 ## 📊 GitHub İstatistikleri
 
-![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=ffurkandemir)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ffurkandemir" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ffurkandemir&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ---
+## 📬 İletişim <a name="contact"></a>
 
-## 📬 İletişim
+- 💼 LinkedIn: [LinkedIn Profilim](https://www.linkedin.com/in/furkandemirbio)
+- 📧 E-posta: [ffurkandemir0@gmail.com](mailto:ffurkandemir0@gmail.com)
+- 🌐 Kişisel site / blog: [furkandemir.me](https://furkandemir.me)
 
-- 💼 LinkedIn: `[https://www.linkedin.com/in/furkandemirbio/]`
-- 📧 E-posta: `[ffurkandemir0@gmail.com]`
-- 🌐 Kişisel site / blog: `[furkandemir.me]`
-
-Araştırma, staj veya proje odaklı iş birliği fikirlerine her zaman açığım.  
-Bir fikrin, önerin ya da birlikte geliştirmek istediğin bir proje varsa issue açabilir ya da bana mail atabilirsin. 🙌
+Araştırma, staj, açık kaynak veya yan proje odaklı iş birliklerine açığım.  
+Bir fikrin, projen veya sormak istediğin bir şey varsa issue açabilir ya da bana mail gönderebilirsin. 🙌
