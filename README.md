@@ -57,7 +57,7 @@
   - Derin öğrenme ile çok sınıflı sınıflandırma  
   - Veri artırma, transfer learning ve karşılaştırmalı deneyler  
 
-- 🧬 **Phylo/Bioinfo Scripts** – `bioinfo-workflows` (örnek isim)  
+- 🧬 **Phylo/Bioinfo Scripts** – `bioinfo-workflows`
   HPC ortamında çalışan küçük komut satırı araçları ve iş akışları:  
   - OrthoFinder, IQ-TREE vb. araçlar için otomasyon script’leri  
   - Filogenetik ve ortoloji analizlerini tekrar üretilebilir hale getirme
